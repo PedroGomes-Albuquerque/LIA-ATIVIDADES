@@ -29,6 +29,9 @@ Se você desconectar a entrada digital do resistor, o LED poderá piscar aleator
  *  ligue um resistor de 220 ohms no LED
  *  ligue o LED ao pino 13 do Arduino
  *  ligue o resistor de 220 ohms no GND
+ * Importe o [Código](Ligar-e-desligar-o-LED-com-o-botão/Código-para-Ligar-e-desligar-o-LED-com-o-botão)
+
+
    
 
  
