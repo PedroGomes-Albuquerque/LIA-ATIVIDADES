@@ -7,6 +7,7 @@ A porta serial pode ser usada para exibir o estatuto das entradas da placa Ardui
 * O botão é conectado ao pino 2 (ou qualquer outra entrada digital) por um conector 10kΩ resistor de pull-up. 
 * O resistor pull-up está conectado à terra. O outro pino do botão está conectado a uma fonte de alimentação de 5V.
 * Importe o [Código](https://github.com/PedroGomes-Albuquerque/LIA-ATIVIDADES/blob/main/Enviando-dados-para-porta-serial/Código)
+* Abra o Monitor Serial da IDE do arduino para testar o projeto
 
 ![imagem](https://github.com/PedroGomes-Albuquerque/LIA-ATIVIDADES/blob/main/Enviando-dados-para-porta-serial/Montagem4.png)
 
