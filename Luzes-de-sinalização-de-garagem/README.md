@@ -20,4 +20,4 @@ Este projeto utiliza um Arduino para controlar dois LEDs que piscam alternadamen
 
   * Conecte os catodos dos LEDs ao GND do Arduino.
 
-!(
+!(https://github.com/PedroGomes-Albuquerque/LIA-ATIVIDADES/blob/main/Luzes-de-sinalização-de-garagem/Montagem2.png)
