@@ -17,7 +17,7 @@ Se você desconectar a entrada digital do resistor, o LED poderá piscar aleator
   *  Led
   *  Fios de conexôes
 
-![.](Ligar-e-desligar-o-LED-com-o-botão/Montagem3.jpg)
+![.]()
 
 ## Esquema de montagem
 
