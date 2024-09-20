@@ -20,7 +20,7 @@ Este projeto utiliza um Arduino para controlar dois LEDs que piscam alternadamen
 
   3° Conecte o pino negativo dos LEDs ao GND do Arduino.
 
-  4° Conecte o arduino a um computador e usa a Arduino IDE e exporte o código ()para a placa
+  4° Conecte o arduino a um computador e usa a Arduino IDE e exporte o código (Luzes-de-sinalização-de-garagem/código-sinalização)para a placa.
 
 ![.](https://github.com/PedroGomes-Albuquerque/LIA-ATIVIDADES/blob/main/Luzes-de-sinalização-de-garagem/Montagem2.png)
 
