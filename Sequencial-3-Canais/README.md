@@ -19,4 +19,4 @@ Cada LED acenderá por 1 segundo, um após o outro, repetidamente.
 * Ligue um LED ao pino 6 do arduino
 * ligue um resistor de 220 Ω a cada LED
 * ligue os resistores ao GND
-* Importe o código para a placa 
+* Importe o [código](Sequencial-3-Canais/Código) para a placa 
